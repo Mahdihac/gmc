@@ -1,0 +1,14 @@
+nav{
+    display: inline;
+    font-family:sans-serif ;
+}
+h1{
+    font-family: roboto;
+    color: darkcyan;
+}
+p{
+    font-family:serif;
+}
+h3{
+    font-family: cursive;
+}
